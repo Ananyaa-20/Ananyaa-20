@@ -26,7 +26,7 @@
   
   
 </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananya-thecodergirl&theme=dark" width=97% >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananyaa-20&theme=dark" width=97% >
 <div>
   
 </div>
