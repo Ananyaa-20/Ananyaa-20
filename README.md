@@ -13,15 +13,15 @@
 
 
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Ananya-thecodergirl&style=flat-square" alt="Ananya"/><br></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Ananyaa-20&style=flat-square" alt="Ananya"/><br></p>
 
 <div style='width:500px;
   background-color:yellow;
   text-align:center;
   vertical-align:middle;'>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya-thecodergirl&theme=dark&hide_langs_below=1" width=45% style="padding-left: 2%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananya-thecodergirl&show_icons=true&count_private=true&theme=dark" alt="ananya" width=50% style="padding-bottom: 8%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananyaa-20&theme=dark&hide_langs_below=1" width=45% style="padding-left: 2%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananyaa-20&show_icons=true&count_private=true&theme=dark" alt="ananya" width=50% style="padding-bottom: 8%;">
   
   
   
@@ -60,7 +60,7 @@
     <img align="left" alt="Instagram Logo" width="34px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Instagram.svg" />
   </a>
   
-  <a href="https://github.com/Ananya-thecodergirl/">
+  <a href="https://github.com/Ananyaa-20/">
     <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34px">
   </a>
   
