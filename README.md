@@ -28,11 +28,7 @@
   
 </div>
 
-<div>
-  <centre>
-    <img src = "https://cdn.dribbble.com/users/2069402/screenshots/5574718/gif-4mb.gif" width=50% height=40% >
-  </centre>
-  </div>
+
   
  
 
