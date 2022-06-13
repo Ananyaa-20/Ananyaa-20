@@ -73,4 +73,8 @@
     <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34px">
   </a>
   
+  <a href="https://discordapp.com/users/AnanyaGupta#9591">
+    <img align='left' src=" https://img.freepik.com/free-vector/modern-badge-discord-icon_578229-169.jpg?w=2000" width="34px">
+  </a>
+  
   </p>
