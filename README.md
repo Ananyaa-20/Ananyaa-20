@@ -70,11 +70,14 @@
   </a>
   
   <a href="https://github.com/Ananyaa-20/">
-    <img align='left' src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34px">
+    <img align='left' src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github logo" width="34px">
+  </a>
+   <a href="https://discordapp.com/users/AnanyaGupta#9591">
+    <img align="left" alt="Discord Logo" width="34px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png"/>
+  </a>
+  <a href="http://www.twitter.com/Ananyaaa__20">
+    <img align="left" alt="Twitter Logo" width="34px" src="https://www.danoneinstitute.org/wp-content/uploads/2020/06/logo-rond-twitter.png"/>
   </a>
   
-  <a href="https://discordapp.com/users/AnanyaGupta#9591">
-    <img align='left' src=" https://img.freepik.com/free-vector/modern-badge-discord-icon_578229-169.jpg?w=2000" width="34px">
-  </a>
-  
+
   </p>
