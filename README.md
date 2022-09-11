@@ -1,4 +1,4 @@
-# Ananya gupta &nbsp; <img src="https://thumbs.gfycat.com/DearestUnequaledCuscus-max-1mb.gif" width=10px height=100px ></p>
+# Ananya gupta &nbsp; <img src="https://thumbs.gfycat.com/DearestUnequaledCuscus-max-1mb.gif" width=100px height=100px ></p>
 
 <p>
   <em>
